@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### FIRST Robotics Competition - Robots I've Worked On 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[FRC 2017 - FIRST Steamworks](/sample_page)
+<img src="images/2017Bot.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[FRC 2018 - FIRST POWER UP](/pdf/sample_presentation.pdf)
+<img src="images/2018Bot.jpg?raw=true"/>
+
+---
+[FRC 2019 - Destination: Deep Space](http://example.com/)
+<img src="images/2019Bot.jpg?raw=true"/>
 
 ---
 
