@@ -5,7 +5,7 @@
 ### FIRST Robotics Competition - Robots I've Worked On 
 
 [FRC 2017 - FIRST Steamworks](/2017page)
-<img src="images/2017Bot.jpg?raw=true"/>
+[<img src="images/2017Bot.jpg?raw=true">](/2017page)
 
 ---
 [FRC 2018 - FIRST POWER UP](/pdf/sample_presentation.pdf)
