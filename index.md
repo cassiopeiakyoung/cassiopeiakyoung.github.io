@@ -19,7 +19,7 @@
 
 ### Other Things I've Worked On
 
-- Still in progress! -
+- Still in progress!
 
 ---
 
