@@ -19,7 +19,7 @@
 
 ### Other Things I've Worked On
 
-- [Circle Clicker](/circle-clicker.md)<br>
+- [Circle Clicker Classic](/circle-clicker-classic.md)<br>
 One of my first projects in Java. A very simple game about clicking circles.
 
 ---
