@@ -3,7 +3,7 @@
 <img src="/images/CircleClickerwelcomepage.PNG">
 *Screenshot of the Circle Clicker Classic home screen*<br><br>
 
-**Project description:** Circle Clicker Classic was one of the first projects that I worked on using Java, aside from small snippets of code that I wrote to solve problems on Codingbat.com. I wrote the game using <a href = "https://processing.org/">Processing</a>, a tool for beginning programmers, in about two hours. It was inspired by "clicker" games like <a href = "https://orteil.dashnet.org/cookieclicker">Cookie Clicker</a>, which is evident in its name and gameplay.
+**Project description:** Circle Clicker Classic was one of the first projects that I worked on using Java, aside from small snippets of code that I wrote to solve problems on Codingbat.com. I wrote the game using the <a href = "https://processing.org/">Processing</a> IDE, a tool for beginning programmers, in about two hours. It was inspired by "clicker" games like <a href = "https://orteil.dashnet.org/cookieclicker">Cookie Clicker</a>, which is evident in its name and gameplay.
 
 <img src="/images/CircleClickergameplay.PNG"> 
 *Screenshot of Circle Clicker Classic gameplay*<br><br>
