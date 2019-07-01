@@ -10,5 +10,5 @@
 
 **Download Links**
 - <a href="/downloads/CircleClicker-Win32.zip" download>Download for Windows 32</a>
-- <a href="/downloads/CircleClicker-Win64.zip" download>Download for Windows 64</a>
+- <a href="/downloads/CircleClicker-Win64.zip" download>Download for Windows 64</a><br>
 You need to install <a href = "https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a> to play CircleClicker if you haven't already. Extract the contents of the folder after downloading, then double-click the application named "CircleClicker" to play. Have fun!
