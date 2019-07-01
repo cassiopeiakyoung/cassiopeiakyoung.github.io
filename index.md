@@ -21,7 +21,7 @@
 
 - [Circle Clicker Classic](/circle-clicker-classic.md)<br>
 One of my first projects in Java. A very simple game about clicking circles.
-- Circle Clicker Modern
+- Circle Clicker Modern<br>
 A modernized, prettier, more enjoyable and all-around superior successor to Circle Clicker Classic. Currently in development.
 
 ---
