@@ -2,24 +2,25 @@
 
 ---
 
-### FIRST Robotics Competition - Robots I've Worked On 
+### FIRST Robotics Competition (FRC) - Robots I've Worked On 
 
-[FRC 2017 - FIRST Steamworks](/2017page)
+[FRC 2017 - FIRST Steamworks](/frc-2017-steamworks)
 [<img src="images/2017Bot.jpg?raw=true">](/2017page)
 
 ---
-[FRC 2018 - FIRST POWER UP](/2018page)
+[FRC 2018 - FIRST POWER UP](/frc-2018-powerup)
 [<img src="images/2018Bot.jpg?raw=true"/>](/2018page)
 
 ---
-[FRC 2019 - Destination: Deep Space](/2019page)
+[FRC 2019 - Destination: Deep Space](/frc-2019-deepspace)
 [<img src="images/2019Bot.jpg?raw=true"/>](/2019page)
 
 ---
 
 ### Other Things I've Worked On
 
-- Still in progress!
+- [Circle Clicker](/circle-clicker.md)
+One of my first projects in Java. A very simple game about clicking circles.
 
 ---
 
