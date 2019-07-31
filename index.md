@@ -2,18 +2,26 @@
 
 ---
 
+### 2019 UCSF Summer Internship
+
+[MarkerBot 2000](/markerbot-2000)
+[<img src="images/markerbot2000.png?raw=true">](/markerbot-2000)
+
+---
+
 ### FIRST Robotics Competition (FRC) - Robots I've Worked On 
 
-[FRC 2017 - FIRST Steamworks](/frc-2017-steamworks)
-[<img src="images/2017Bot.jpg?raw=true">](/2017page)
+
+[FRC 2019 - Destination: Deep Space](/frc-2019-deepspace)
+[<img src="images/2019Bot.jpg?raw=true"/>](/frc-2019-deepspace)
 
 ---
 [FRC 2018 - FIRST POWER UP](/frc-2018-powerup)
-[<img src="images/2018Bot.jpg?raw=true"/>](/2018page)
+[<img src="images/2018Bot.jpg?raw=true"/>](/frc-2018-powerup)
 
 ---
-[FRC 2019 - Destination: Deep Space](/frc-2019-deepspace)
-[<img src="images/2019Bot.jpg?raw=true"/>](/2019page)
+[FRC 2017 - FIRST Steamworks](/frc-2017-steamworks)
+[<img src="images/2017Bot.jpg?raw=true">](/frc-2017-steamworks)
 
 ---
 
