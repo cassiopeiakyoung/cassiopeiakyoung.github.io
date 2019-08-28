@@ -6,4 +6,4 @@
 
 ### Using MarkerBot
 
-MarkerBot has two modes: a [remote-control mode](/remote-control-guide.md), where MarkerBot can be controlled through a tethered controller, and an [autnomous mode](/autonomous-control-guide.md), where Arduino code can be uploaded to MarkerBot so it can move and draw autonomously. A troubleshooting guide and instructions to using MarkerBot can be downloaded <a href="/downloads/MarkerBotGuide.docx" download>here</a>.
+MarkerBot has two modes: a [remote-control mode](/remote-control-guide.md), where MarkerBot can be controlled through a tethered controller, and an [autnomous mode](/autonomous-control-guide.md), where Arduino code can be uploaded to MarkerBot so it can move and draw autonomously. A troubleshooting guide and instructions to using MarkerBot can be downloaded <a href="/downloads/MarkerBotGuide.pdf" download>here</a>.
