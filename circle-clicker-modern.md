@@ -23,7 +23,6 @@
   * Added a hearts feature, Golden Circles, and a "Quit" and "Play Again" button
 
 **Download Links**
-- <a href="/downloads/CircleClickerModernAlpha1.0-Win32.zip" download>Download for Windows 32</a>
-- <a href="/downloads/CircleClickerModernAlpha1.0-Win64.zip" download>Download for Windows 64</a><br>
+See the <a href = "https://github.com/nicolaskyoung/nicolaskyoung.github.io/releases/tag/v0.1-alpha"> Releases </a> to access the Windows 32 and Windows 64 downloads. Circle Clicker is currently only for Windows, but a Linux build may come in the future.
 
 You need to install <a href = "https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a> to play Circle Clicker Classic if you haven't already. Extract the contents of the folder after downloading, then double-click the application named "CircleClicker" to play. Have fun!
