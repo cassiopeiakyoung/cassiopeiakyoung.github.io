@@ -3,7 +3,7 @@
 **Project description:** This was my third year participating in FRC. This year I was the Head of Outreach and Mechanical Team Lead at Galileo Robotics. Being Mechanical Team Lead brought with it unique challenges like having to train new recruits to work together effectively as a team and teach them the skills they needed to build a robot. While these challenges were tough to overcome, they helped me grow as a person as I learned how to be a more effective leader and teacher. I also became more committed to the team than ever before, and started going to meetings six days a week for at least three hours a day.
 ### 1. This Year's Game
 
-<iframe width="420" height="315" src="https://youtu.be/Mew6G_og-PI"> </iframe> 
+[![FRC 2019 Game Animation](http://img.youtube.com/vi/https://www.youtube.com/watch?v=Mew6G_og-PI/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=Mew6G_og-PI "FRC 2019 Game Animation")
 
 In the 2019 FRC season, the game was called "Destination: Deep Space" in honor of the 50th anniversary of the Apollo 11 moon landings. Two alliances of three robots raced to place "hatch panels" (polycarbonate rings with Velcro on their edges) and "cargo pieces" (large rubber balls) into three scoring zones, the "cargo ship" in the center of the field and the two "rockets" on either side of the field. Hatch panels and cargo pieces could be loaded by a member of the drive team from each alliance's wall. Unlike most years, there was no period of time where the robots had to perform autonomously; instead, for the first 15 seconds driver vision was obscured by a "sandstorm", forcing drivers to rely on camera vision, autonomous programming, or simply drive blind. Robots started in a "HAB zone" and could start on Level 1 or Level 2; starting on Level 2 granted more points than Level 1 if the robot was able to drive off in the sandstorm period. Towards the end of the match, robots could climb the "HAB" for additional points: a Level 3 climb granted 12 points, a Level 2 climb granted 9 points, and a Level 1 "climb" (since getting onto Level 1 required simply driving up a ramp) granted 3 points. Special points called ranking points were awarded for placing all hatch panels and cargo pieces in a rocket and for gaining 15 total points from climbing the "HAB" at the end of the match.
 
@@ -12,6 +12,6 @@ Again, we approached the challenge with a jack-of-all-trades design. Our robot c
 
 ### 3. Our Performance At Competitions
 
-<iframe width="420" height="315" src="https://youtu.be/g-eXJeuUe4M"> </iframe> 
+[![FRC 2019 Season Recap](http://img.youtube.com/vi/g-eXJeuUe4M/0.jpg)](http://www.youtube.com/watch?v=g-eXJeuUe4M "FRC 2019 Season Recap")
 
 We had a very successful 2019 season. In the San Francisco regional competition, technical issues caused our robot to not perform as well as we had hoped, and we achieved a rank of 33 there. However, by the time of the Silicon Valley regional, these technical issues were fixed. As a result, we performed better than we ever had in any previous competition, and ranked high enough to have a guaranteed spot in the quarterfinals. Unfortunately we lost both our quarterfinal matches and could not proceed any further, but we ended up with a final rank of 7 - the highest rank we've ever achieved!
