@@ -36,7 +36,7 @@ A modernized, prettier, more enjoyable and all-around superior successor to Circ
 
 ### Miscellaneous 
 
-- [MarkerBot 2000 Remote Control Guide](/autonomous-control-guide)<br>
+- [MarkerBot 2000 Remote Control Guide](/remote-control-guide)<br>
 A guide and download links for MarkerBot 2000's remote control mode.
 - [MarkerBot 2000 Autonomous Control Guide](/autonomous-control-guide)<br>
 A guide and download links for MarkerBot 2000's autonomous mode.
