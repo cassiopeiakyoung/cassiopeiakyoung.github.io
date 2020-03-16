@@ -1,6 +1,6 @@
 ## FRC 2019 - Destination: Deep Space
 
-**Project description:** This was my second year participating in FRC. This year I was the Head of Outreach and Mechanical Team Lead at Galileo Robotics. Being Mechanical Team Lead brought with it unique challenges like having to train new recruits to work together effectively as a team and teach them the skills they needed to build a robot. While these challenges were tough to overcome, they helped me grow as a person as I learned how to be a more effective leader and teacher. I also became more committed to the team than ever before, and started going to meetings six days a week for at least three hours a day.
+**Project description:** This was my third year participating in FRC. This year I was the Head of Outreach and Mechanical Team Lead at Galileo Robotics. Being Mechanical Team Lead brought with it unique challenges like having to train new recruits to work together effectively as a team and teach them the skills they needed to build a robot. While these challenges were tough to overcome, they helped me grow as a person as I learned how to be a more effective leader and teacher. I also became more committed to the team than ever before, and started going to meetings six days a week for at least three hours a day.
 ### 1. This Year's Game
 
 <iframe width="420" height="315" src="https://youtu.be/Mew6G_og-PI"> </iframe> 
