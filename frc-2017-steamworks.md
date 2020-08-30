@@ -14,6 +14,6 @@ Our team went for a "jack-of-all-trades" design. Our robot was designed to place
 
 ### 3. Our Performance At Competitions
 
-[![FRC 2017 Season Recao](http://img.youtube.com/vi/P69LfRsXcvQ/0.jpg)](http://www.youtube.com/watch?v=P69LfRsXcvQ "FRC 2017 Season Recap")
+[![FRC 2017 Season Recap](http://img.youtube.com/vi/P69LfRsXcvQ/0.jpg)](http://www.youtube.com/watch?v=P69LfRsXcvQ "FRC 2017 Season Recap")
 
 We had a somewhat mediocre season in 2017. We were able to attain a rank of 24 out of 41 teams in the San Francisco Regional and a rank of 42 out of 56 teams in the Silicon Valley Regional.
