@@ -13,4 +13,6 @@ Our robot this year was sadly unfinished due to the COVID-19 pandemic preventing
 
 ### 3. Our Performance At Competitions
 
-Due to the COVID-19 pandemic, we tragically couldn't compete in the 2020 FRC competition.
+<img src="images/2020Bot.jpg?raw=true"/>
+
+Due to the COVID-19 pandemic, we tragically couldn't compete in the 2020 FRC competition. Our robot is pictured above.

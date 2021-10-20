@@ -10,6 +10,6 @@ The 2021 RoboSub competition was held entirely online. Despite this, RoboSub pro
 
 ### 2. My Contributions to the Mechanical Team
 
-[<img src="images/Grappler.png?raw=true">]
+<img src="images/Grappler.png?raw=true">
 
 I ensured the delivery robotic claw in Solidworks to manipulate and pick up markers while underwater, and additionally ran stress tests on the components of the claw I judged most likely to fail. The claw went through multiple iterations, and the final iteration cost less than half that of the original design's cost. The final iteration is pictured above; it uses a BlueRobotics M200 motor, as it is waterproof and designed to run underwater, in conjunction with a series of gears and plates to open and close, causing a grasping motion for the claw.
