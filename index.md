@@ -2,15 +2,19 @@
 
 ---
 
-### 2019 UCSF Summer Internship
+### RoboSub 2021
 
-[MarkerBot 2000](/markerbot-2000)
-[<img src="images/markerbot2000.png?raw=true">](/markerbot-2000)
+[RoboSub 2021](/robosub-2021)
+[<img src="images/urobotics-render.png?raw=true"/>](/robosub-2021)
 
 ---
 
 ### FIRST Robotics Competition (FRC) - Robots I've Worked On 
 
+[FRC 2020 - Infinite Recharge](/frc-2020-infiniterecharge)
+[<img src="images/2020Bot.jpg?raw=true"/>](/frc-2020-infiniterecharge)
+
+---
 
 [FRC 2019 - Destination: Deep Space](/frc-2019-deepspace)
 [<img src="images/2019Bot.jpg?raw=true"/>](/frc-2019-deepspace)
@@ -22,6 +26,13 @@
 ---
 [FRC 2017 - FIRST Steamworks](/frc-2017-steamworks)
 [<img src="images/2017Bot.jpg?raw=true">](/frc-2017-steamworks)
+
+---
+
+### 2019 UCSF Summer Internship
+
+[MarkerBot 2000](/markerbot-2000)
+[<img src="images/markerbot2000.png?raw=true">](/markerbot-2000)
 
 ---
 
