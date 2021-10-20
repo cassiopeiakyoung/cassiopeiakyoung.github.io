@@ -12,7 +12,7 @@
 ### FIRST Robotics Competition (FRC) - Robots I've Worked On 
 
 [FRC 2020 - Infinite Recharge](/frc-2020-infiniterecharge)
-[<img src="images/2020Bot.jpg?raw=true"/>](/frc-2020-infiniterecharge)
+[<img src="images/2020Bot.JPG?raw=true"/>](/frc-2020-infiniterecharge)
 
 ---
 
