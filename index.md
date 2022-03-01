@@ -2,6 +2,10 @@
 
 ---
 
+### Stage Separation Vehicle
+
+[Stage Separation Vehicle](/stage-sep)
+
 ### RoboSub 2021
 
 [RoboSub 2021](/robosub-2021)
