@@ -2,13 +2,19 @@
 
 ---
 
+### Little Lynx
+
+[Little Lynx](/lynx)
+
 ### The Stinger
 
 [The Stinger](/stinger)
+[<img src="images/stinger-final.gif"/>](/stinger)
 
 ### Stage Separation Vehicle
 
 [Stage Separation Vehicle](/stage-sep)
+[<img src="images/ssep-rocket.png"/>](/stage-sep)
 
 ### RoboSub 2021
 
@@ -50,6 +56,8 @@
 One of my first projects in Java. A very simple game about clicking circles.
 - [Circle Clicker Modern](/circle-clicker-modern.md)<br>
 A modernized, prettier, more enjoyable and all-around superior successor to Circle Clicker Classic. Currently in alpha.
+- [Gracious Professionalism Bot](/gracious-professionalism-bot.md)<br>
+A Discord chat moderation bot.
 
 ---
 
