@@ -2,6 +2,9 @@
 
 ---
 
+### Bike Security System
+[Bike Security System](/bss)
+
 ### Little Lynx
 
 [Little Lynx](/lynx)
