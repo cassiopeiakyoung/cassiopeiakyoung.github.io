@@ -4,6 +4,7 @@
 
 ### Bike Security System
 [Bike Security System](/bss)
+[<img src="images/bike.png"/>](/bike)
 
 ### Little Lynx
 
